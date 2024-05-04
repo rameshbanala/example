@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+    //loops
+	//for loop
+	/*for(initialization;condition;incriment/decrement)
+	{
+		statements that should be executed in loop;
+	}*/
+	for(int i = 0;i<100;i++)
+	{
+		printf("welcome");
+	}
+	
+}
